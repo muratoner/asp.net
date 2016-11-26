@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHG.AspNet.Smtp", "MHG.AspN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHG.AspNet.Gravatar", "MHG.AspNet.Gravatar\MHG.AspNet.Gravatar.csproj", "{16DEACEA-8E3E-4A4A-BF76-B17B9E1D0075}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHG.WebTransformWithBuild", "MHG.WebTransformWithBuild\MHG.WebTransformWithBuild.csproj", "{0A3B1CFC-F6DE-4F38-888E-383101A6FC0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{16DEACEA-8E3E-4A4A-BF76-B17B9E1D0075}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16DEACEA-8E3E-4A4A-BF76-B17B9E1D0075}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16DEACEA-8E3E-4A4A-BF76-B17B9E1D0075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3B1CFC-F6DE-4F38-888E-383101A6FC0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3B1CFC-F6DE-4F38-888E-383101A6FC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3B1CFC-F6DE-4F38-888E-383101A6FC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3B1CFC-F6DE-4F38-888E-383101A6FC0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
