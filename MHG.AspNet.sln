@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHG.AspNet.Gravatar", "MHG.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHG.WebTransformWithBuild", "MHG.WebTransformWithBuild\MHG.WebTransformWithBuild.csproj", "{0A3B1CFC-F6DE-4F38-888E-383101A6FC0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MHG.AspNet.WebApi2.Upload", "MHG.AspNet.WebApi2.Upload\MHG.AspNet.WebApi2.Upload.csproj", "{8EBF26AC-B565-4D3E-B7D9-58C3B0367F52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{0A3B1CFC-F6DE-4F38-888E-383101A6FC0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A3B1CFC-F6DE-4F38-888E-383101A6FC0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A3B1CFC-F6DE-4F38-888E-383101A6FC0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBF26AC-B565-4D3E-B7D9-58C3B0367F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBF26AC-B565-4D3E-B7D9-58C3B0367F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBF26AC-B565-4D3E-B7D9-58C3B0367F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBF26AC-B565-4D3E-B7D9-58C3B0367F52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
